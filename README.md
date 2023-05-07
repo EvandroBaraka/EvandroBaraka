@@ -1,4 +1,4 @@
-##Bem-vindo(a) ao perfil do EvandroBaraka
+## Bem-vindo(a) ao perfil do EvandroBaraka
 
 <div>
   <a href="https://github.com/EvandroBaraka">
@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Minhas redes e contato!
  
 <div> 
   <a href="https://www.facebook.com/evandro.passaiaze/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
