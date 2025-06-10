@@ -12,9 +12,6 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 </div>
- <br>
-
-![snake gif](https://github.com/EvandroBaraka/EvandroBaraka/blob/output/github-contribution-grid-snake.svg)
     
  <br>
  
@@ -24,4 +21,9 @@
   <a href="https://www.facebook.com/evandro.passaiaze/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:evandrobaraka@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/evandro-passaia-62b9a5269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<div>
+  
+![snake gif](https://github.com/EvandroBaraka/EvandroBaraka/blob/output/github-snake-dark.svg)
 </div>
